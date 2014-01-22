@@ -5,7 +5,7 @@ My funny motd config. Just for fun!
 
 ScreenShots & Usage
 ===
-**Buddha**
+ **Buddha**
 
 Usage:
 
@@ -15,9 +15,7 @@ Usage:
 ![Alt text](screenshots/Buddha.png "Buddaha ScreenShort")
 
 
-
-
-**mom-beat-me-once**
+ **mom-beat-me-once**
 
 (from [*here*](https://www.dnspod.cn/),look at its source code!)
 
