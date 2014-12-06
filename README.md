@@ -9,7 +9,9 @@ ScreenShots & Usage
 
 Usage:
 
-* **For Ubuntu**:Just copy the content from Buddha to ``/etc/motd.tail``(Maybe it's not exist, create it!)
+* **For Ubuntu**:
+  * **12.04**: Just copy the content from Buddha to ``/etc/motd.tail``(Maybe it's not exist, create it!)
+  * **14.04**: Copy to ``/etc/motd``
 * **For CentOS**:Just copy the content from Buddha to ``/etc/motd``
 
 ![Alt text](screenshots/Buddha.png "Buddaha ScreenShort")
