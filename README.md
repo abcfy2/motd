@@ -89,7 +89,7 @@ Usage:
 ```
 
 **girl**
-(Thank @liaoishere for pull request #1)
+(Thank [@liaoishere](https://github.com/liaoishere) for pull request [#1](https://github.com/abcfy2/motd/pull/1))
 ```
                                                      /*[*/#include<stdio.h>//
                          #include<stdlib.h>//]++++[->++[->+>++++<<]<][(c)2013]
@@ -139,7 +139,7 @@ b=   0;if(_<P[q ].o){while(012-*P[q].p)     {putchar(*(P[q].p++));b++;}P[q]. p++
  ```
 
  **dog**
- (Thank @liaoishere for pull request #1)
+(Thank [@liaoishere](https://github.com/liaoishere) for pull request [#1](https://github.com/abcfy2/motd/pull/1))
 ```
                                                                     Z=      "Vn"
   "-S"                                                             "xR9Q"   "[$s"
