@@ -189,3 +189,6 @@ _l]gL3X]d_#$eK"                             "[G3 d[Xe][:V`4Z]Z"      "VfX^]V:X%b
                                                    o);0;);c     =Y(~o&&!
                                                     put)(*K+     x);}}}}}
 ```
+
+**doge**
+(Thank [@jackeyGao](https://github.com/jackeyGao) for pull request [#2](https://github.com/abcfy2/motd/pull/2))
